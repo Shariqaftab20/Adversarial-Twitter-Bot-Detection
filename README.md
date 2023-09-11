@@ -80,4 +80,4 @@ Before using this project, ensure you have the following prerequisites installed
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Shariqaftab20/Adversarial-Twitter-Bot-Detection
