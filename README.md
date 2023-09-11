@@ -73,7 +73,21 @@ Before using this project, ensure you have the following prerequisites installed
 
 - Python 3.6 or later
 - PyTorch 1.8 or compatible version
-- Required libraries (list them with version numbers if possible)
+## Required Libraries and Imports 📚
+
+The following Python libraries are required to run this project:
+
+```python
+import numpy as np # For numerical operations and data manipulation
+import pandas as pd # For data loading, preprocessing, and manipulation
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler # For data preprocessing
+from sklearn.feature_extraction.text import TfidfVectorizer # For text data preprocessing
+from sklearn.model_selection import train_test_split # For splitting the dataset
+import tensorflow as tf # For building and training neural networks
+from tensorflow.keras.layers import Input, Dense, BatchNormalization, LeakyReLU # Keras layers
+from tensorflow.keras.models import ModelEncoder, Sequential # Keras models
+from tensorflow.keras.optimizers import Adam # Optimizer for neural networks
+```
 
 ### Installation 💻
 
