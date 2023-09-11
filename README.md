@@ -1,7 +1,5 @@
 # Adversarial Bot Detection using Generative Adversarial Networks (GANs) 🤖
 
-![Project Logo](logo.png) (If applicable)
-
 ## Table of Contents 📜
 
 - [About](#about)
